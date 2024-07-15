@@ -1,12 +1,11 @@
-Hi 👋 My name is Justin Tew
+Justin Tew
 ===========================
 
 I just wanna build cools stuff.
 
-*   🖥️  See my portfolio at [j-tew.github.io](http://j-tew.github.io/)
-*   ✉️  You can contact me at [justinrtew@gmail.com](mailto:justinrtew@gmail.com)
-*   🚀  I'm currently working on [Warlord](http://github.com/j-tew/warlord)
-*   🧠  I'm learning Go
+*   [j-tew.github.io](http://j-tew.github.io/)
+*   [justinrtew@gmail.com](mailto:justinrtew@gmail.com)
+*   I'm learning Go
 
 <a href="https://www.twitch.tv/outlaw_venom" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/outlaw_venom?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
@@ -17,6 +16,6 @@ I just wanna build cools stuff.
 
 <p align="left"><a href="https://www.github.com/j-tew" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /><source media="(prefers-color-scheme: light)"srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></picture></a><a href="https://www.twitch.tv/outlaw_venom" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></picture></a></p>
 
-### Badges
+### Languages
 
 <a href="https://github.com/j-tew" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-tew&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
