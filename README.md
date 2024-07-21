@@ -1,7 +1,7 @@
 Justin Tew
 ===========================
 
-I just wanna build cools stuff.
+I just wanna build cool stuff.
 
 *   [j-tew.github.io](http://j-tew.github.io/)
 *   [justinrtew@gmail.com](mailto:justinrtew@gmail.com)
